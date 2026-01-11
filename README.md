@@ -1,0 +1,2 @@
+- Installed CodeNewRoman Nerdfont from https://www.nerdfonts.com/
+- Selected CodeNewRoman font under Terminal > Settings > Profiles > Font

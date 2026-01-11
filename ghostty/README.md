@@ -1,0 +1,2 @@
+- https://ghostty.org/docs
+- made ghostty the "default terminal" in Raycast by disabling Terminal and adding an alias to Ghostty (via Raycast application settings)
