@@ -1,1 +1,6 @@
+# On macOS when using Raycast, the environment variable for $XDG_CONFIG_HOME is not loaded when starting Ghostty via Raycast. Ghostty therefore doesn't read this config. Instead, it reads the config at $HOME/Library/Application Support/com.mitchellh.ghostty/config . Therefore, first add a symlink:
+# ln -sf "$XDG_CONFIG_HOME/ghostty/config" "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
+
+
+
 font-family="CodeNewRoman Nerd Font Mono"
