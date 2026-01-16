@@ -1,0 +1,6 @@
+*
+!.gitignore
+!nvim/
+!ghostty/
+!CodeNewRoman.zip
+|README.md
