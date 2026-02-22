@@ -47,3 +47,7 @@ A session consists of 1 to n windows that are listed in the statusbar
 
 ## Search
 - C-b f searches for visible text in all panes
+
+## Plugins
+- Using TPM for plugins (github.com/tmux-plugins/tpm)
+- Use C-b I (uppercase I) for automatic installation of plugins after they were added to the `tmux.conf` file
