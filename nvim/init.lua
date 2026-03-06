@@ -861,7 +861,7 @@ require('lazy').setup({
     config = function()
       local treesitter = require 'nvim-treesitter'
       treesitter.setup()
-      treesitter.install { 'bash', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'vim' }
+      treesitter.install { 'bash', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'vim', 'typescript', 'javascript', 'swift' }
 
       vim.api.nvim_create_autocmd('FileType', {
         callback = function(args)
