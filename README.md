@@ -1,5 +1,5 @@
 - Installed CodeNewRoman Nerdfont from https://www.nerdfonts.com/
-- Selected CodeNewRoman font under Terminal > Settings > Profiles > Font
+    - Selected CodeNewRoman font under Terminal > Settings > Profiles > Font
 
 # .zshrc
 1. Add `export XDG_CONFIG_HOME="~/dotfiles" to your ~/.zshrc file
@@ -9,3 +9,11 @@
 
 # Mac Settings
 Disable "Settings > Desktop & Dock > Drag windows to the top of the screen to enable mission control
+
+# NVIM
+## Neotree
+- `nt` and `nT` to focus neotree from normal mode or Toggle 
+- `.` to set folder as root
+- `<` to toggle between dir, git status and buffers
+- `<bs` to move one level up (backspace)
+
