@@ -7,3 +7,6 @@
 !tmux/
 |README.md
 tmux/plugins
+.android
+swiftpm/
+configstore/
